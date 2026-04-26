@@ -1,3 +1,11 @@
+// -------  Nama Program : Login dan Register -------
+//------- Author : Refan Rustoni Putra ------
+//------- Versi : 10  ------
+//------- Ownership : Pribadi------
+//------- Deskripsi : Pembuatan halaman Login, Dashboard dan Profile ------
+
+//------- Library ---------
+
 // ─── USER MODEL ─────────────────────────────────────────
 
 class User {

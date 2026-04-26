@@ -1,3 +1,10 @@
+// -------  Nama Program : Login dan Register -------
+//------- Author : Refan Rustoni Putra ------
+//------- Versi : 10  ------
+//------- Ownership : Pribadi------
+//------- Deskripsi : Pembuatan halaman Login, Dashboard dan Profile ------
+
+//------- Library ---------
 import 'package:flutter/material.dart';
 import '../models/models.dart';
 import '../theme/app_theme.dart';
